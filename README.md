@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am studying Computer Science at Clemson University.
 <!--
 **lawelborn/lawelborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
